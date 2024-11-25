@@ -58,10 +58,10 @@ The **Library Management System (LMS)** is a Java-based application designed to 
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/kastinson/Stinson_Kelly_LMS.git
    ```
 2. Import the project into an IDE (e.g., IntelliJ IDEA, Eclipse).
-3. Set up JavaFX in your build environment.
+3. Set up JavaFX, MySQL JDBC driver, and JUnit in your build environment.
 4. Configure MySQL credentials in `DatabaseConfiguration.java`.
 5. Initialize the database using the schema provided below:
    ```sql
